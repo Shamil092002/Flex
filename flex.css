@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+
+}
+.purple {
+    display: flex;
+    width: 500px;
+    height: 300px;
+    border: 5px solid purple;
+}
+.orange:last-child{
+    display: flex;
+}
+
+.orange {
+    border: 5px solid orange;
+    width: 100%;
+    
+}
+.red {
+    height: 50%;
+    border: 5px solid red;
+}
+.green {
+    width: 50%;
+    border: 5px solid green;
+}
